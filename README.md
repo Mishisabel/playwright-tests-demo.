@@ -1,1 +1,1 @@
-# playwright-tests-demo.
+# playwright-tests-demo
